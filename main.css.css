@@ -59,6 +59,7 @@ nav ul li a {
 .menu-hamburguer {
     width: 32px;
     cursor: pointer;
+    flex-start: end;
 }
 
 .menu-hamburguer span {
