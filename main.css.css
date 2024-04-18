@@ -242,5 +242,6 @@ footer li a {
 
     .lista-veiculos li img {
         margin-bottom: 10px;
+        text-decoration: none;
     }
 }
