@@ -222,7 +222,7 @@ footer li a {
 @media screen and (max-width: 640px) {
     nav {
         padding: 10px 0;
-        display: block;
+        
     }
 
     nav ul li {
@@ -237,6 +237,7 @@ footer li a {
     footer .container {
         padding-left: 5px;
         padding-right: 5px;
+        display:flex;
     }
 
     .lista-veiculos li {
