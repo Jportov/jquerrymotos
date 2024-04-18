@@ -91,11 +91,13 @@ section h2 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    list-style:none;
 }
 
 .lista-veiculos li {
     flex: 0 0 calc(30% - 20px);
     margin-bottom: 24px;
+    text-decoration: none;
 }
 
 .lista-veiculos li img {
