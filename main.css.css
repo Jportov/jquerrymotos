@@ -237,6 +237,7 @@ footer li a {
 
     .lista-veiculos li {
         flex: 0 0 calc(100% - 20px);
+        text-decoration: none;
     }
 
     .lista-veiculos li img {
