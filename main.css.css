@@ -219,7 +219,7 @@ footer li a {
 }
 
 /* Responsividade para smartphones */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 640px) {
     nav {
         padding: 10px 0;
     }
