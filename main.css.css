@@ -222,6 +222,7 @@ footer li a {
 @media screen and (max-width: 640px) {
     nav {
         padding: 10px 0;
+        display:flex;
     }
 
     nav ul li {
